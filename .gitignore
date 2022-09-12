@@ -1,0 +1,8 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/Backend/Bookings/.vs/Bookings
+/Backend/Bookings/Bookings/bin/Debug/net5.0
+/Backend/Bookings/Bookings/obj
+/Backend/Bookings/Bookings/Properties
